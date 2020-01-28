@@ -5,9 +5,17 @@
 
 ### 前端仓库
 
+技术栈：
+1. vue.js
+
 [https://github.com/4ncov/web-4ncov.git](https://github.com/4ncov/web-4ncov.git "前端仓库")
 
 ### 后端仓库
+
+
+技术栈：
+1. Node.js
+2. java spring boot
 
 [https://github.com/4ncov/service-4ncov.git](https://github.com/4ncov/service-4ncov.git "后端仓库")
 
@@ -19,3 +27,4 @@
 
 
 ### Support or Contact
+
