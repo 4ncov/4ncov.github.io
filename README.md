@@ -1,5 +1,6 @@
-## Welcome to 4ncov Pages
+## Welcome to **4ncov** Pages
 
+**4ncov**是一个为灾区提供信息服务的平台。
 
 
 ### 前端仓库
