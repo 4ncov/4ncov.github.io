@@ -24,7 +24,7 @@
 
 ### 有意愿的开发者可以入群
 
-![](https://i.imgur.com/FOxVsjy.png)
+![](https://ftp.bmp.ovh/imgs/2020/01/d744fa4b32043ece.png)
 
 
 ### Support or Contact
